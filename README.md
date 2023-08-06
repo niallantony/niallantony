@@ -4,7 +4,11 @@
 
 My name is Niall Craven, and I am an English teacher and freelance graphic designer, based in South Korea and currently in the process of learning Full Stack development. Welcome to my GitHub. Here you will find many of the projects that I am currently working on and other information about me.
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,nodejs)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,webpack,jest,ps,ai,blender" />
+  </a>
+</p>
 
 ## Current Projects
 
