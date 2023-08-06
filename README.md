@@ -30,7 +30,7 @@ A collection of small modules to work with different algorithms and data structu
 | Creating a library | Enjoying maintaining an expandable library of different functions and modules that can be used in other projects |
 | node.js practice | Experiencing back-end programming, which is eventually an area I want to concentrate in |
 
-### [Element Library](https://github.com/niallantony/webpage-elements)
+### 🎨 [Element Library](https://github.com/niallantony/webpage-elements)
 
 A collection of front-end web elements for use in other webpages
 
