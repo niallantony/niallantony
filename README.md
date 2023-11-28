@@ -6,11 +6,20 @@ My name is Niall Craven, and I am an English teacher and freelance graphic desig
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,webpack,jest,ps,ai,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,webpack,jest,ps,ai,blender" />
   </a>
 </p>
 
 ## Current Projects
+
+### 📃 [CV Builder](https://www.github.com/niallantony/cv-app)
+
+A React Web-app for building CVs.
+
+#### Learning Objectives:
+- Build a fully function web-app in React using hooks.
+- Use Vite to deploy a React project.
+- Styling React Components
 
 ### ⛴️ [Battleships Game](https://www.github.com/niallantony/battleships)
 
@@ -29,16 +38,6 @@ A collection of small modules to work with different algorithms and data structu
 - Computer Science - Exploring data structures, algorithms and problems one might encounter in Computer Science 
 - Creating a library - Enjoying maintaining an expandable library of different functions and modules that can be used in other projects 
 - node.js practice - Experiencing back-end programming, which is eventually an area I want to concentrate in 
-
-### 🎨 [Element Library](https://github.com/niallantony/webpage-elements)
-
-A collection of front-end web elements for use in other webpages
-
-#### Learning Objectives:
-- Libraries - Creating elements, organising them into a library and then reusing them in other projects is something I want to do consistently 
-- DOM manipulation - Creating useful and usable elements through DOM manipulation 
-- UI/UX - Making sure elements work well, are intuitive and look good 
-
 
 <!--
 **niallantony/niallantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
