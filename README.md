@@ -2,42 +2,39 @@
 
 ## Who Am I?
 
-My name is Niall Craven, and I am an English teacher and freelance graphic designer, based in South Korea and currently in the process of learning Full Stack development. Welcome to my GitHub. Here you will find many of the projects that I am currently working on and other information about me.
+My name is Niall Craven, I am a teacher, designer and aspiring software developer, based in South Korea and currently completing a degree in Computer Science. Here you will find a number of projects that I am currently working on, as well as other information about me
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,webpack,jest,ps,ai,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,node,express,react,git,webpack,jest,ps,ai,blender,postgres" />
   </a>
 </p>
 
-## Current Projects
+## 🔭 I’m currently working on
 
-### 📃 [CV Builder](https://www.github.com/niallantony/cv-app)
+### 📃 [ClassRoom Manager](https://github.com/niallantony/ClassRoomManager)
 
-A React Web-app for building CVs.
-
-#### Learning Objectives:
-- Build a fully function web-app in React using hooks.
-- Use Vite to deploy a React project.
-- Styling React Components
-
-### ⛴️ [Battleships Game](https://www.github.com/niallantony/battleships)
-
-A web based battleships game.
+A tool for managing resources for lectures - including managing exams, lecture content and student grades
 
 #### Learning Objectives:
-- Test Driven Development - This project from TheOdinProject was a way of learning TDD using Jest, building the mechanics of the game using a 'test first' approach. Getting familiarity with using mock functions and unit testing 
-- Webpack - Further use of webpack, also learning how Webpack and TDD can work together. Trying to use Webpack in more advanced ways with each project 
-- Responsive Design - One major objective of this project is to make it look and play well on mobile devices 
+- Back End Development - Using Node.js and Express to develop a backend for a web application
+- Database Design - A planned and designed relational database, initially manually implemented in PostgreSQL with Prisma ORM used later to manage queries
+- API - Develop a backend and frontend which communicate using a REST API
 
-### 🔬 [Node Practice](www.github.com/niallantony/Node_practice)
+### 🛠️ [Solo-P](https://github.com/niallantony/SoloP)
 
-A collection of small modules to work with different algorithms and data structures
+A small Python app which generates and manages a KanBan board style list of Project activities
 
 #### Learning Objectives:
-- Computer Science - Exploring data structures, algorithms and problems one might encounter in Computer Science 
-- Creating a library - Enjoying maintaining an expandable library of different functions and modules that can be used in other projects 
-- node.js practice - Experiencing back-end programming, which is eventually an area I want to concentrate in 
+- Python - Try developing and packaging an app in Python
+- Maintenance - Receiving and maintaining a piece of software released to PyPI
+- Tools - Developing something which I could use in my own work
+
+## 🌱 I’m currently learning ...
+
+As well as continuously improving my web development skills with projects and mastering familiar tools, I am continually looking for new things to learn.
+I have only recently started dipping into Python development, and intend to continue learning Python, with one of my short-term goals being the development of a web API using Django.
+As part of my degree I have also been learning functional development with Haskell, and this is something that I am keen to keep working on.
 
 <!--
 **niallantony/niallantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
