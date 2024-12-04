@@ -6,7 +6,7 @@ My name is Niall Craven, I am a teacher, designer and aspiring software develope
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,node,express,react,git,webpack,jest,ps,ai,blender,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,webpack,jest,ps,ai,blender,postgres" />
   </a>
 </p>
 
