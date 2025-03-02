@@ -6,7 +6,7 @@ My name is Niall Craven, I am a teacher, designer and aspiring software develope
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,webpack,jest,ps,ai,blender,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,webpack,jest, postgres,python" />
   </a>
 </p>
 
@@ -21,20 +21,15 @@ A tool for managing resources for lectures - including managing exams, lecture c
 - Database Design - A planned and designed relational database, initially manually implemented in PostgreSQL with Prisma ORM used later to manage queries
 - API - Develop a backend and frontend which communicate using a REST API
 
-### 🛠️ [Solo-P](https://github.com/niallantony/SoloP)
-
-A small Python app which generates and manages a KanBan board style list of Project activities
-
-#### Learning Objectives:
-- Python - Try developing and packaging an app in Python
-- Maintenance - Receiving and maintaining a piece of software released to PyPI
-- Tools - Developing something which I could use in my own work
-
 ## 🌱 I’m currently learning ...
 
-As well as continuously improving my web development skills with projects and mastering familiar tools, I am continually looking for new things to learn.
-I have only recently started dipping into Python development, and intend to continue learning Python, with one of my short-term goals being the development of a web API using Django.
-As part of my degree I have also been learning functional development with Haskell, and this is something that I am keen to keep working on.
+As part of my Computer Science degree I am constantly learning about the field of computer science. Working on coursework (that must not be uploaded to github) means I spend a large portion of my time with projects that I unfortunately cannot showcase. The areas I find most stimulating at the moment however include:
+- AI and Machine Learning
+- Functional Programming
+- Databases
+
+I hope to include some personal projects which build on these concepts soon, so watch this space.
+As well as the above concepts I am constantly working on building my programming skills and am consistently strengthening my language skills in particular in Python and Javascript, but also C and Haskell.
 
 <!--
 **niallantony/niallantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
