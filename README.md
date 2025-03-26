@@ -7,15 +7,34 @@ My name is Niall Craven, I am a teacher, designer and aspiring software develope
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,webpack,jest,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,svelte,jest,postgres,py" />
   </a>
 </p>
 
 ## 🔭 I’m currently working on
 
+### 📝 [Personal Blog](https://github.com/niallantony/Blog)
+
+A personal site with blog attached, allowing blog posts to be dynamically uploaded from desktop without the need for redeployment.
+A local application for encrypting and sending blog posts, and a service for parsing retrieving blogposts from a server and displaying them.
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=svelte,postman,nodejs,postgres" />
+</a>
+
+#### Learning Objectives:
+- Svelte Framework: Exploring a different framework, Svelte and SvelteKit to build a more lightweight website
+- File Handling: How to handle uploading and retrieving image files using cloud file storage systems
+- Searching, Filtering and Sorting: Planning to include search functionality to allow extraction of keywords to be used as tags, and full-text search ability
+- Postman: Using postman to test API endpoints
+
 ### 📃 [ClassRoom Manager](https://github.com/niallantony/ClassRoomManager)
 
 A tool for managing resources for lectures - including managing exams, lecture content and student grades
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,express,nodejs,postgres" />
+</a>
 
 #### Learning Objectives:
 - Back End Development - Using Node.js and Express to develop a backend for a web application
