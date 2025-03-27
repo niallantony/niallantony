@@ -13,7 +13,7 @@ My name is Niall Craven, I am a teacher, designer and aspiring software develope
 
 ## 🔭 I’m currently working on
 
-### 🧑‍💻 [Github-Activity-Tracker](https://github.com/niallantony/JavaGitActivity
+### 🧑‍💻 [Github-Activity-Tracker](https://github.com/niallantony/JavaGitActivity)
 
 A Java app for fetching Github activity and displaying it on the command line.
 
