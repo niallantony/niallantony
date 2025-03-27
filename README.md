@@ -13,6 +13,19 @@ My name is Niall Craven, I am a teacher, designer and aspiring software develope
 
 ## 🔭 I’m currently working on
 
+### 🧑‍💻 [Github-Activity-Tracker](https://github.com/niallantony/JavaGitActivity
+
+A Java app for fetching Github activity and displaying it on the command line.
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,maven" />
+</a>
+
+#### Learning Objectives:
+- Create an app with Java that connects with an API
+- Learn Maven and Java application structure
+- Practice Java, and reinforce Java programming fundamentals
+
 ### 📝 [Personal Blog](https://github.com/niallantony/Blog)
 
 A personal site with blog attached, allowing blog posts to be dynamically uploaded from desktop without the need for redeployment.
