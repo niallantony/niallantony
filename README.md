@@ -3,7 +3,7 @@
 Visit my personal site: [My Personal Site/Blog](https://renewed-hedwiga-niallantony-85e6d38f.koyeb.app) (WIP)
 ## Who Am I?
 
-My name is Niall Craven, I am a teacher, designer and aspiring software developer, based in South Korea and currently completing a degree in Computer Science. Here you will find a number of projects that I am currently working on, as well as other information about me
+My name is Niall Craven, I am a teacher, designer and software developer, based in South Korea and currently completing a degree in Computer Science. Here you will find a number of projects that I am currently working on, as well as other information about me
 
 <p align="center">
   <a href="https://skillicons.dev">
