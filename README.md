@@ -7,47 +7,30 @@ My name is Niall Craven, I am a teacher, designer and software developer, based 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,git,svelte,jest,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,svelte,spring,express,postgres,git,jest,vite" />
   </a>
 </p>
 
 ## 🔭 I’m currently working on
 
-### 🧑‍💻 [Github-Activity-Tracker](https://github.com/niallantony/JavaGitActivity)
+### 📃 들어바바 (Deulaubaba)
 
-A Java app for fetching Github activity and displaying it on the command line.
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,maven" />
-</a>
-
-#### Learning Objectives:
-- Create an app with Java that connects with an API
-- Learn Maven and Java application structure
-- Practice Java, and reinforce Java programming fundamentals
-
-### 📝 [Personal Blog](https://github.com/niallantony/Blog)
-
-A personal site with blog attached, allowing blog posts to be dynamically uploaded from desktop without the need for redeployment.
-A local application for encrypting and sending blog posts, and a service for parsing retrieving blogposts from a server and displaying them.
+A commissioned application for documenting students with special need's communication methods between stakeholders.
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=svelte,postman,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,ts,postgres,spring" />
 </a>
 
-#### Learning Objectives:
-- Svelte Framework: Exploring a different framework, Svelte and SvelteKit to build a more lightweight website
-- File Handling: How to handle uploading and retrieving image files using cloud file storage systems
-- Searching, Filtering and Sorting: Planning to include search functionality to allow extraction of keywords to be used as tags, and full-text search ability
-- Postman: Using postman to test API endpoints
+#### [Application](https://github.com/niallantony/deulaubaba)
+  - Created using Expo with React-Native.
+  - Fully written using TypeScript
+  - Manages server state with Tanstack Query and local state with Zustand
+  - Tested using React Testing Library
 
-### 📃 [ClassRoom Manager](https://github.com/niallantony/ClassRoomManager)
-
-A tool for managing resources for lectures - including managing exams, lecture content and student grades
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,postgres" />
-</a>
+#### [Backend](https://github.com/niallantony/deulaubabaServer)
+  - RESTful API service implemented in Spring
+  - Unit tests and Integration tests using JUnit and Testcontainers
+  - Authorisation flow with Auth0 using JWT
 
 #### Learning Objectives:
 - Back End Development - Using Node.js and Express to develop a backend for a web application
