@@ -32,20 +32,14 @@ A commissioned application for documenting students with special need's communic
   - Unit tests and Integration tests using JUnit and Testcontainers
   - Authorisation flow with Auth0 using JWT
 
-#### Learning Objectives:
-- Back End Development - Using Node.js and Express to develop a backend for a web application
-- Database Design - A planned and designed relational database, initially manually implemented in PostgreSQL with Prisma ORM used later to manage queries
-- API - Develop a backend and frontend which communicate using a REST API
-
 ## 🌱 I’m currently learning ...
 
 As part of my Computer Science degree I am constantly learning about the field of computer science. Working on coursework (that must not be uploaded to github) means I spend a large portion of my time with projects that I unfortunately cannot showcase. The areas I find most stimulating at the moment however include:
-- AI and Machine Learning
 - Functional Programming
 - Databases
 
 I hope to include some personal projects which build on these concepts soon, so watch this space.
-As well as the above concepts I am constantly working on building my programming skills and am consistently strengthening my language skills in particular in Python and Javascript, but also C and Haskell.
+As well as the above concepts I am constantly working on building my programming skills and am consistently strengthening my language skills in particular in Python, Java and Javascript.
 
 <!--
 **niallantony/niallantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
