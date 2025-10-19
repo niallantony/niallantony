@@ -29,6 +29,7 @@ A commissioned application for documenting students with special need's communic
 
 #### [Backend](https://github.com/niallantony/deulaubabaServer)
   - RESTful API service implemented in Spring
+  - PostgreSQL database with Spring Data JPA integration
   - Unit tests and Integration tests using JUnit and Testcontainers
   - Authorisation flow with Auth0 using JWT
 
