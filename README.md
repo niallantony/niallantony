@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Visit my personal site: [My Personal Site/Blog](https://renewed-hedwiga-niallantony-85e6d38f.koyeb.app)
+## Visit my personal site: [My Personal Site/Blog](https://niallantony.github.io/Blog/)
 
 ## Who Am I?
 
