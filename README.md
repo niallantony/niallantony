@@ -28,7 +28,7 @@ A commissioned application for documenting students with special need's communic
   - Manages server state with Tanstack Query and local state with Zustand
   - Tested using React Testing Library
 
-#### [Backend](https://github.com/niallantony/deulaubabaServer)
+#### [Backend](https://github.com/niallantony/deuleubabaServer)
   - RESTful API service implemented in Spring
   - PostgreSQL database with Spring Data JPA integration
   - Unit tests and Integration tests using JUnit and Testcontainers
